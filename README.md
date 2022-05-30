@@ -61,6 +61,6 @@ Enter a string to test.
 Do not populate fields with an *
 
 | id          | url              | daysuntilexpiration | status | alert | pagerduty_dedup | lastupdate_utc |
-| ----------- | ---------------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| *           | news.google.com  | *  |*            |*            |*            |*            |*            |
+| ----------- | ---------------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| *           | news.google.com  | *  |*            |*            |*            |*            |
 
