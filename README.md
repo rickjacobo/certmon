@@ -49,6 +49,9 @@ docker exec -it certmon pwsh add.ps1 -Url "https://news.google.com" -Keyword "go
   docker exec -it certmon pwsh delete.ps1 -Id <id>
   ````
   
+  ### Add A Web Dashboard
+* [Certmon-Dashboad](https://github.com/rickjacobo/certmon-dashboard)
+  
 ## Services
 There is an example services in the database. When adding new services to monitor you only need to enter the url. The id, daysuntilexpiration, status, alert, pagerduty_dedup, and lastupdate_utc fields are used by the app and don't need to be manually populated.
 ### Url
